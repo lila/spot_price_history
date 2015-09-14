@@ -1,5 +1,9 @@
 # README for Spot Pricing project
 
+```
+This project provides the code basis for [The Data Science of Spot Pricing](https://medium.com/cloud-uprising/the-data-science-of-aws-spot-pricing-8bed655caed2). 
+```
+
 files:
   bin/ - scripts
   	download.sh - bash script to download (by default 1 days worth) pricing dataset as json
