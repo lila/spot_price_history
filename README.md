@@ -22,4 +22,7 @@ run the following command to get all the requirements installed:
 
 > % pip install -r requirements.txt
 
+## Example notebook
+
+Go to [Example ipython notebook](https://github.com/lila/spot_price_history/blob/master/notebook/SpotPriceHistory.ipynb)
 
